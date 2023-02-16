@@ -54,7 +54,7 @@ typing-extensions==4.4.0
     # via
     #   -r requirements.in/base.txt
     #   pydantic
-uvicorn[standard]==0.20.0
+uvicorn==0.20.0
     # via -r requirements.in/base.txt
 #uvloop==0.17.0
     # via uvicorn
